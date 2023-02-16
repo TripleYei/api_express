@@ -1,5 +1,5 @@
 # api_express
-Crear API con Express
+Crear API con Express, donde el JSON pongo artículos del blog.
 
 
 ## Uso
