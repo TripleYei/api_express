@@ -27,7 +27,7 @@ En la url
 
 Vemos el siguiente JSON
 
-<img src="JSON.PNG">
+<img src="json.PNG">
 
 
 
