@@ -8,7 +8,26 @@ Crear API con Express
 node web.js
 ~~~~
 
+## Navegador
+
+~~~~
+localhost:3000
+~~~~
+
+
 
 ## Proceso 
 
-<img src="imagen.png">
+Nada más entrar,vemos lo siguiente
+<img src="api.png">
+
+En la url
+
+<img src="yei.PNG">
+
+Vemos el siguiente JSON
+
+<img src="JSON.PNG">
+
+
+
